@@ -9,7 +9,7 @@ on:
 jobs:
   run-weather-bot:
     runs-on: ubuntu-latest
-
+    
     permissions:
       contents: write
 
@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pandas
+          pip install requests pandas matplotlib
 
       - name: Run weather script
         run: python weather.py
