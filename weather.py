@@ -27,7 +27,6 @@ def get_hko_six_day_forecast():
 
             parsed_data.append(
                 {
-                    # 強制確保 Date 抓下來是字串
                     "Date": str(day.get("forecastDate")),
                     "Day": day.get("week"),
                     "Weather": day.get("forecastWeather"),
@@ -41,26 +40,19 @@ def get_hko_six_day_forecast():
         df_new = pd.DataFrame(parsed_data)
 
         if os.path.exists(csv_file):
-            # 讀取時加上 dtype={'Date': str}，避免日期被自動轉成整數
             df_old = pd.read_csv(csv_file, dtype={"Date": str})
             df_combined = pd.concat([df_old, df_new], ignore_index=True)
         else:
             df_combined = df_new
 
-        # 確保整個 Date 欄位統一都是字串型態
         df_combined["Date"] = df_combined["Date"].astype(str)
-
-        # 移除重複日期，保留最新的
         df_combined.drop_duplicates(subset=["Date"], keep="last", inplace=True)
-
-        # 排序
         df_combined.sort_values(by="Date", inplace=True)
-
-        # 儲存
         df_combined.to_csv(csv_file, index=False)
 
         print(f"資料已成功更新並儲存至 {csv_file}")
-        display(df_combined)
+        # 在純 Python 腳本中用 print 取代 display，避免報錯
+        print(df_combined.head())
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data from HKO API: {e}")
