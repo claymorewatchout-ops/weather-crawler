@@ -1,7 +1,8 @@
 Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20260903,Thursday,Sunny periods. One or two showers later. There will be swells.,26 C,31 C,55 - 85,28.5
-20260904,Friday,Mainly cloudy with a few squally showers. There will be swells.,25 C,29 C,75 - 95,27.0
-20260905,Saturday,Mainly cloudy with a few showers. Sunny intervals during the day.,26 C,31 C,70 - 95,28.5
-20260906,Sunday,Mainly cloudy with one or two showers. Sunny periods during the day.,27 C,32 C,65 - 90,29.5
+20260904,Friday,Sunny periods. One or two isolated showers in the afternoon.,26 C,31 C,55 - 90,28.5
+20260905,Saturday,Mainly cloudy with one or two showers. Sunny intervals during the day.,26 C,31 C,70 - 95,28.5
+20260906,Sunday,Mainly cloudy with a few showers. Sunny intervals during the day.,27 C,31 C,70 - 95,29.0
 20260907,Monday,Sunny periods. One or two showers in the morning.,27 C,32 C,65 - 90,29.5
-20260908,Tuesday,Sunny periods.,27 C,32 C,65 - 90,29.5
+20260908,Tuesday,Mainly fine.,27 C,32 C,65 - 90,29.5
+20260909,Wednesday,Mainly fine.,27 C,32 C,60 - 80,29.5
