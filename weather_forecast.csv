@@ -18,8 +18,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20260919,Saturday,Sunny. Dry and hot during the day.,27 C,32 C,55 - 85,29.5
 20260920,Sunday,Mainly fine. Dry and very hot during the day. Becoming cloudy with isolated showers later.,28 C,33 C,50 - 90,30.5
 20260921,Monday,Sunny intervals. A few showers and isolated thunderstorms. Hot during the day.,27 C,32 C,65 - 95,29.5
-20260922,Tuesday,Mainly cloudy with a few showers. Sunny intervals during the day.,27 C,31 C,70 - 95,29.0
+20260922,Tuesday,Sunny intervals and one or two showers.,27 C,32 C,65 - 95,29.5
 20260923,Wednesday,Sunny periods and isolated showers.,27 C,31 C,65 - 90,29.0
-20260924,Thursday,Mainly fine. Cloudy periods in the morning and at night.,27 C,31 C,60 - 85,29.0
-20260925,Friday,Mainly cloudy with isolated showers. Sunny periods during the day.,27 C,31 C,65 - 90,29.0
-20260926,Saturday,Mainly cloudy with isolated showers. Sunny periods during the day.,27 C,31 C,65 - 90,29.0
+20260924,Thursday,Mainly fine. Cloudy periods in the morning and at night.,27 C,32 C,55 - 85,29.5
+20260925,Friday,Mainly fine. Cloudy periods in the morning and at night.,27 C,32 C,55 - 85,29.5
+20260926,Saturday,Sunny periods and isolated showers. Cloudy periods in the morning and at night.,27 C,32 C,65 - 90,29.5
+20260927,Sunday,Sunny periods and isolated showers.,27 C,32 C,60 - 90,29.5
