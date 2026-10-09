@@ -36,8 +36,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261007,Wednesday,Mainly fine and dry. Slightly cooler in the morning.,23 C,30 C,45 - 75,26.5
 20261008,Thursday,Mainly fine and dry.,25 C,30 C,50 - 75,27.5
 20261009,Friday,Mainly fine and dry.,26 C,30 C,55 - 75,28.0
-20261010,Saturday,Fine and dry.,26 C,31 C,50 - 75,28.5
-20261011,Sunday,Fine and dry.,26 C,31 C,50 - 75,28.5
-20261012,Monday,Fine and dry.,26 C,31 C,55 - 80,28.5
-20261013,Tuesday,Fine and dry. Hot during the day.,27 C,32 C,55 - 80,29.5
-20261014,Wednesday,Mainly fine. Dry and hot during the day.,27 C,32 C,55 - 80,29.5
+20261010,Saturday,Fine. Dry during the day.,26 C,31 C,50 - 80,28.5
+20261011,Sunday,Fine. Dry during the day.,26 C,31 C,50 - 80,28.5
+20261012,Monday,Fine. Dry during the day.,26 C,31 C,55 - 85,28.5
+20261013,Tuesday,Fine. Dry and hot during the day.,26 C,32 C,55 - 85,29.0
+20261014,Wednesday,Mainly fine. Dry and hot during the day.,26 C,32 C,55 - 85,29.0
+20261015,Thursday,Sunny periods. One or two light rain patches in the morning and at night.,26 C,30 C,60 - 85,28.0
