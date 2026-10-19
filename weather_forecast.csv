@@ -47,6 +47,8 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261018,Sunday,Sunny periods. Dry during the day.,27 C,31 C,60 - 85,29.0
 20261019,Monday,Fine. Visibility relatively low in some areas at first. Dry and hot during the day.,26 C,32 C,60 - 85,29.0
 20261020,Tuesday,Fine. Dry and hot during the day.,27 C,32 C,60 - 85,29.5
-20261021,Wednesday,Mainly fine. Visibility relatively low in some areas at first. Dry and very hot during the day. One or two rain patches at night.,27 C,33 C,60 - 85,30.0
-20261022,Thursday,Mainly cloudy. One or two rain patches at first. Dry with sunny intervals during the day.,26 C,31 C,60 - 85,28.5
-20261023,Friday,Mainly fine and dry. Hot during the day.,26 C,32 C,50 - 75,29.0
+20261021,Wednesday,Mainly fine. Visibility relatively low in some areas at first. Dry and very hot during the day. Isolated showers later.,26 C,33 C,55 - 90,29.5
+20261022,Thursday,"Cloudy periods and one or two rain patches at first. Mainly fine, dry and hot during the day.",25 C,32 C,50 - 85,28.5
+20261023,Friday,Mainly fine and dry. Very hot during the day.,26 C,33 C,40 - 75,29.5
+20261024,Saturday,Mainly fine and dry. Hot during the day.,26 C,32 C,40 - 75,29.0
+20261025,Sunday,Sunny periods. Dry during the day. A few showers later.,26 C,31 C,55 - 90,28.5
