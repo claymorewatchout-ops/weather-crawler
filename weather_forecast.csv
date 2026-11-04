@@ -62,8 +62,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261102,Monday,Sunny periods. One or two light rain patches later.,26 C,30 C,65 - 90,28.0
 20261103,Tuesday,Mainly cloudy. One or two light rain patches in the morning and at night. Sunny intervals during the day.,26 C,29 C,70 - 90,27.5
 20261104,Wednesday,Mainly cloudy. One or two rain patches in the morning and at night. Bright periods during the day.,25 C,28 C,75 - 90,26.5
-20261105,Thursday,Sunny periods.,26 C,30 C,65 - 85,28.0
-20261106,Friday,Sunny periods. Becoming cloudy with one or two rain patches later.,26 C,29 C,70 - 90,27.5
+20261105,Thursday,Sunny periods. One or two light rain patches at first.,26 C,30 C,65 - 90,28.0
+20261106,Friday,Sunny periods. Becoming cloudy with one or two rain patches at night.,26 C,29 C,70 - 90,27.5
 20261107,Saturday,Mainly cloudy. One or two rain patches at first. Bright periods during the day.,25 C,28 C,65 - 90,26.5
 20261108,Sunday,Mainly cloudy. Sunny periods during the day.,25 C,29 C,60 - 80,27.0
-20261109,Monday,Sunny periods. Dry during the day. Temperatures falling gradually later.,23 C,28 C,55 - 80,25.5
+20261109,Monday,One or two light rain patches at first. Becoming fine and dry during the day. Temperatures falling appreciably later.,22 C,28 C,55 - 85,25.0
+20261110,Tuesday,Mainly fine and dry. Slightly cooler in the morning and at night.,21 C,26 C,45 - 70,23.5
