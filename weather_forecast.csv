@@ -72,8 +72,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261112,Thursday,Sunny periods. Dry during the day.,22 C,27 C,55 - 80,24.5
 20261113,Friday,Mainly cloudy. Sunny intervals during the day. A few showers later. Showers will increase with thunderstorms at night.,23 C,26 C,70 - 95,24.5
 20261114,Saturday,Mainly cloudy with occasional showers. Showers will be heavy with a few squally thunderstorms at first. Showers will ease off during the day. Sunny periods in the afternoon.,23 C,27 C,70 - 95,25.0
-20261115,Sunday,Mainly fine. Becoming cloudy at night.,23 C,28 C,65 - 90,25.5
-20261116,Monday,Mainly cloudy with a few rain patches.,24 C,26 C,75 - 95,25.0
-20261117,Tuesday,Mainly cloudy. One or two rain patches in the morning. Sunny intervals during the day. Visibility relatively low in some areas at night.,24 C,27 C,75 - 95,25.5
-20261118,Wednesday,Mainly cloudy with a few rain patches. Temperatures will fall appreciably later.,20 C,26 C,60 - 90,23.0
-20261119,Thursday,Mainly cloudy. Slightly cooler in the morning. Bright periods during the day.,18 C,22 C,60 - 85,20.0
+20261115,Sunday,Mainly fine.,22 C,28 C,60 - 85,25.0
+20261116,Monday,Mainly cloudy with one or two rain patches. Bright periods during the day.,24 C,27 C,70 - 95,25.5
+20261117,Tuesday,Mainly cloudy. One or two rain patches in the morning. Sunny intervals during the day.,24 C,27 C,75 - 95,25.5
+20261118,Wednesday,Mainly cloudy with a few rain patches. Visibility relatively low in some areas at first. Temperatures will fall appreciably later.,20 C,26 C,60 - 90,23.0
+20261119,Thursday,Mainly cloudy. Relatively cool in the morning and at night. Bright periods during the day.,18 C,22 C,60 - 80,20.0
+20261120,Friday,Mainly cloudy with one or two rain patches. Cool in the morning.,17 C,20 C,65 - 85,18.5
