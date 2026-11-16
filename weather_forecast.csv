@@ -74,8 +74,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261114,Saturday,Mainly cloudy with occasional showers. Showers will be heavy with a few squally thunderstorms at first. Showers will ease off during the day. Sunny periods in the afternoon.,23 C,27 C,70 - 95,25.0
 20261115,Sunday,Mainly fine.,22 C,28 C,60 - 85,25.0
 20261116,Monday,Mainly cloudy with one or two rain patches. Bright periods during the day.,23 C,26 C,70 - 90,24.5
-20261117,Tuesday,Mainly cloudy. One or two rain patches in the morning. Sunny intervals during the day.,24 C,27 C,75 - 90,25.5
-20261118,Wednesday,Mainly cloudy with a few rain patches. Visibility relatively low in some areas at first. Temperatures will fall appreciably later.,21 C,26 C,65 - 95,23.5
-20261119,Thursday,Mainly cloudy. Cooler with one or two rain patches in the morning and at night. Bright periods during the day.,18 C,22 C,60 - 85,20.0
-20261120,Friday,Mainly cloudy with one or two rain patches. It will be cool.,16 C,19 C,60 - 85,17.5
-20261121,Saturday,Mainly cloudy. Cool in the morning. Bright periods during the day.,16 C,21 C,60 - 80,18.5
+20261117,Tuesday,Mainly cloudy. One or two light rain patches in the morning. Sunny periods during the day.,23 C,27 C,65 - 90,25.0
+20261118,Wednesday,Mainly cloudy. Sunny intervals during the day. One or two rain patches later. Temperatures will fall at night.,21 C,27 C,65 - 95,24.0
+20261119,Thursday,Mainly cloudy. Cooler with one or two rain patches in the morning and at night. Bright periods during the day.,18 C,22 C,65 - 90,20.0
+20261120,Friday,Cool and mainly cloudy with one or two rain patches.,15 C,18 C,70 - 90,16.5
+20261121,Saturday,Cool in the morning. Mainly cloudy. Sunny intervals in the afternoon.,16 C,21 C,60 - 85,18.5
+20261122,Sunday,Mainly cloudy. Bright periods during the day.,18 C,22 C,65 - 85,20.0
