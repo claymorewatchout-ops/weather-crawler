@@ -78,8 +78,9 @@ Date,Day,Weather,Min Temp (°C),Max Temp (°C),Humidity (%),Avg Temp (°C)
 20261118,Wednesday,Mainly cloudy. Sunny intervals during the day. One or two rain patches later. Temperatures will fall at night.,21 C,27 C,65 - 95,24.0
 20261119,Thursday,Cloudy with one or two light rain patches. Temperatures will fall further at night.,18 C,21 C,70 - 90,19.5
 20261120,Friday,Temperatures will fall further. Cloudy and rather cool with a few rain patches.,15 C,18 C,75 - 95,16.5
-20261121,Saturday,Becoming fine and dry. Rather cool in the morning.,15 C,22 C,55 - 80,18.5
-20261122,Sunday,Mainly cloudy. Bright periods at first. One or two light rain patches later.,19 C,22 C,60 - 85,20.5
-20261123,Monday,Cloudy with one or two light rain patches.,21 C,24 C,70 - 90,22.5
-20261124,Tuesday,Cloudy with a few rain patches. Temperatures will fall later.,19 C,22 C,80 - 95,20.5
-20261125,Wednesday,Cloudy with a few rain patches. Becoming cool.,17 C,21 C,80 - 95,19.0
+20261121,Saturday,Mainly cloudy at first. Rather cool in the morning. Sunny periods during the day.,13 C,21 C,55 - 80,17.0
+20261122,Sunday,Mainly cloudy. One or two light rain patches later.,19 C,22 C,60 - 90,20.5
+20261123,Monday,Cloudy with one or two rain patches.,21 C,24 C,70 - 90,22.5
+20261124,Tuesday,Cloudy with a few rain patches. Temperatures will fall later.,18 C,22 C,80 - 95,20.0
+20261125,Wednesday,Cloudy with a few rain patches. Becoming cool.,16 C,20 C,80 - 95,18.0
+20261126,Thursday,Mainly cloudy. Cool with one or two rain patches in the morning. Bright periods during the day.,17 C,22 C,75 - 90,19.5
